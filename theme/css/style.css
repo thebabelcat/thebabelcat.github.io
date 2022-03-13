@@ -59,7 +59,7 @@ h4 {
 a {
     font-weight: 600;
     color: #212631;
-    text-decoration: none;
+    text-decoration: underline;
 }
 a:hover, a:focus{
     color: #212631;

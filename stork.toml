@@ -3,6 +3,11 @@ base_directory = "/home/leo/devel/thebabelcat/pelican/output"
 url_prefix = "thebabelcat.github.io"
 html_selector = "section#content"
 [[input.files]]
+path = "kaos-06.html"
+url = "kaos-06.html"
+title = "KAOS 06"
+
+[[input.files]]
 path = "kaos-05.html"
 url = "kaos-05.html"
 title = "KAOS 05"
