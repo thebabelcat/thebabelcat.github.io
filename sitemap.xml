@@ -5,8 +5,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>thebabelcat.github.io/</loc>
-<lastmod>2022-03-13T15:31:47-00:00</lastmod>
+<lastmod>2023-02-06T17:44:36-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>thebabelcat.github.io/kaos-07.html</loc>
+<lastmod>2023-02-06T18:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -25,14 +32,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>thebabelcat.github.io/kaos-03.html</loc>
-<lastmod>2021-04-27T08:00:00+01:00</lastmod>
+<loc>thebabelcat.github.io/kaos-04.html</loc>
+<lastmod>2021-04-28T08:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>thebabelcat.github.io/kaos-04.html</loc>
+<loc>thebabelcat.github.io/kaos-03.html</loc>
 <lastmod>2021-04-27T08:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -152,7 +159,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>thebabelcat.github.io/category/riviste.html</loc>
-<lastmod>2022-03-09T13:00:00+00:09</lastmod>
+<lastmod>2023-02-06T18:00:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -166,21 +173,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>thebabelcat.github.io/tag/gdr.html</loc>
-<lastmod>2022-03-09T13:00:00+00:09</lastmod>
+<lastmod>2023-02-06T18:00:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/libri.html</loc>
-<lastmod>2022-03-09T13:00:00+00:09</lastmod>
+<lastmod>2023-02-06T18:00:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/fumetti.html</loc>
-<lastmod>2022-03-09T13:00:00+00:09</lastmod>
+<lastmod>2023-02-06T18:00:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -229,7 +236,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>thebabelcat.github.io/author/leonardo-giordani.html</loc>
-<lastmod>2022-03-09T13:00:00+00:09</lastmod>
+<lastmod>2023-02-06T18:00:00+00:09</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
