@@ -6,7 +6,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>thebabelcat.github.io/</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -20,77 +20,84 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>thebabelcat.github.io/archives.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/author/leonardo-giordani.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/author/leonardo-giordani2.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/author/leonardo-giordani3.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/author/leonardo-giordani4.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/authors.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/categories.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/category/cataloghi.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/category/riviste.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>thebabelcat.github.io/category/riviste2.html</loc>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/category/traduzioni.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/category/traduzioni2.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -159,6 +166,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>thebabelcat.github.io/il-catalogo-igdg-1999-2000.html</loc>
+<lastmod>2025-12-26T09:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>thebabelcat.github.io/il-catalogo-igdg-sondaggi-1983-1985.html</loc>
 <lastmod>2023-11-27T09:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -174,21 +188,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>thebabelcat.github.io/index2.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/index3.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/index4.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -271,6 +285,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>thebabelcat.github.io/kaos-11.html</loc>
+<lastmod>2025-12-26T09:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>thebabelcat.github.io/l-angolo-del-tradittore.html</loc>
 <lastmod>2015-01-12T08:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -328,105 +349,112 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>thebabelcat.github.io/tag/boardgames.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/cartoni.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/dd.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/film.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/fumetti.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>thebabelcat.github.io/tag/fumetti2.html</loc>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/gdr.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/gdr2.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/gdr3.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/giochi.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/libri.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/libri2.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/tolkien.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/traduzioni.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tag/traduzioni2.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>thebabelcat.github.io/tags.html</loc>
-<lastmod>2024-10-13T14:33:22-00:00</lastmod>
+<lastmod>2025-12-26T22:56:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
